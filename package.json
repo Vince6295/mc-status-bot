@@ -1,0 +1,10 @@
+{
+  "name": "mc-status-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "minecraft-server-util": "^5.4.4"
+  }
+}
